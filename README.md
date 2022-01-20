@@ -8,7 +8,6 @@
 - Solid knowledge in mobile application development
 - Actively looking for an intership where I can contribute my knowledge and my value
 - Eager to learn new technologies 🧑‍💻
-
 <br>
 
 ### Languages and Tools:
