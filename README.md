@@ -6,7 +6,7 @@
 - 🎓 Currently enrolling in third year of Honours Bachelor of Computer Science (Mobile Computing)
 - Efficiency, hands-on experience in web development and mobile application development
 - Actively looking for any intership opportunity where I can contribute my knowledge and my value
-- Eager to learn new technologies 🧑‍💻
+- Eager to work and learn new technologies 🧑‍💻
 
 ### Languages and Tools:
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
