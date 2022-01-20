@@ -3,10 +3,9 @@
 <!-- [<img align="left" alt="Minh Pham | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg"/>][linkedin] -->
 
 ## About myself 👋
-- 🎓 Currently enrolling in third year of Honours Bachelor of Computer Science (Mobile Computing) and a passionate developer
-- Efficiency, hands-on experience in web development 
-- Solid knowledge in mobile application development
-- Actively looking for an intership where I can contribute my knowledge and my value
+- 🎓 Currently enrolling in third year of Honours Bachelor of Computer Science (Mobile Computing)
+- Efficiency, hands-on experience in web development and mobile application development
+- Actively looking for any intership opportunity where I can contribute my knowledge and my value
 - Eager to learn new technologies 🧑‍💻
 
 ### Languages and Tools:
