@@ -13,7 +13,7 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="TypeScript" width="30px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
 <img align="left" alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-<img align="left" alt="CSharp" width="30px" src="https://icons8.com/icon/59966/cs"/>
+<img align="left" alt="CSharp" width="30px" src="[https://icons8.com/icon/59966/cs](https://cdn.worldvectorlogo.com/logos/c--4.svg)"/>
 <img align="left" alt="NodeJS" width="30px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
 <img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="SASS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
