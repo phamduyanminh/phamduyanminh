@@ -5,7 +5,6 @@
 ## About myself 👋
 - 🎓 Currently enrolling in third year of Honours Bachelor of Computer Science (Mobile Computing)
 - Efficiency, hands-on experience in web development and mobile application development
-- Actively looking for any intership opportunity where I can contribute my knowledge and my value
 - Eager to learn new technologies 🧑‍💻
 
 ### Languages and Tools:
