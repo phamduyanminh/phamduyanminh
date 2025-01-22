@@ -3,7 +3,7 @@
 <!-- [<img align="left" alt="Minh Pham | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icon@v3/icons/linkedin.svg"/>][linkedin] -->
 
 ## About myself 👋
-- 🎓 Currently enrolling in third year of Honours Bachelor of Computer Science (Mobile Computing)
+- 🎓 Currently enrolling in fourth year of Honours Bachelor of Computer Science (Mobile Computing)
 - Efficiency, hands-on experience in web development and mobile application development
 - Eager to learn new technologies 🧑‍💻
 
