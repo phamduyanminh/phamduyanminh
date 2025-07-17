@@ -4,8 +4,7 @@
 
 ## About myself 👋
 - 🎓 Currently enrolling in fourth year of Honours Bachelor of Computer Science (Mobile Computing)
-- Efficiency, hands-on experience in web development and mobile application development
-- Eager to learn new technologies 🧑‍💻
+- 🧑‍💻 A developer specializing in the intersection of AI and full-stack engineering
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
