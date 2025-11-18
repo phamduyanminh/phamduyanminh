@@ -4,7 +4,7 @@
 
 ## About myself 👋
 - 🎓 Currently enrolling in fourth year of Sheridan College - Honours Bachelor of Computer Science (Mobile Computing) program
-- 🧑‍💻 A developer specializing in the intersection of AI and full-stack engineering
+- My main goal is to build software frees people from busy and manual work so we can all have more time for coffee breaks.
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
