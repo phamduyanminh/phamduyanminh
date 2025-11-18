@@ -17,8 +17,7 @@
 <img align="left" alt="MSSQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"/>
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 
-### Leetcode
-
+<br clear="both"/>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/phamduyanminh?theme=light)
 
 
